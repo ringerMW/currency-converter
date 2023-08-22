@@ -37,7 +37,6 @@ The data of this service is updated once a day!
 ###
 
 <div align="center">
-  <img height="500" src="https://github.com/ringerMW/currency-converter/blob/main/img/screenshots_conv.png?raw=true"/>
   <img height="500" src="https://github.com/ringerMW/currency-converter/blob/main/img/conv_pre.gif?raw=true"/>
 </div>
 
