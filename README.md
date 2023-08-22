@@ -4,10 +4,6 @@
 
 ###
 
-<h1 align="center">[Currency Converter]</h1>
-
-###
-
 <h2 align="left">About project</h2>
 
 ###
